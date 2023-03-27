@@ -1,0 +1,8 @@
+# This blocklist helps Adguard admin restrict access to netflix and its domains.
+# Curated from sources online.
+
+||nflxext.com^
+||netflix.com^
+||nflximg.net^
+||nflxvideo.net^
+||nflxso.net^

@@ -16,10 +16,12 @@ https://raw.githubusercontent.com/jmutai/pihole-blocklist/main/tracking.txt
 ```
 
 ## Social Media
+```bash
 https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/pihole-facebook.txt
 https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/pihole-instagram.txt
 https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/pihole-tiktok.txt
 https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/pihole-whatsapp.txt
 https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/adguard-netflix.txt
+```
 
 Once done go to **Tools** > **Update Gravity** > **Update** 

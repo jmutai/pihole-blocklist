@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/pihole-instagra
 https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/pihole-tiktok.txt
 https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/pihole-whatsapp.txt
 https://raw.githubusercontent.com/jmutai/pihole-blocklist/master/adguard-netflix.txt
+https://raw.githubusercontent.com/jmutai/pihole-blocklist/main/pihole-twitter.txt
 ```
 
 Once done go to **Tools** > **Update Gravity** > **Update** 
